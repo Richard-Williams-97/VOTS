@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VOTS/static/css/main.3aa67584.css",
-    "main.js": "/VOTS/static/js/main.f5f7131e.js",
-    "static/media/blackhole.svg": "/VOTS/static/media/blackhole.f5438c0fcb8e251874719168bec0e493.svg",
-    "static/media/starfield.png": "/VOTS/static/media/starfield.1d591ffc824ac1570fcd.png",
-    "index.html": "/VOTS/index.html",
-    "main.3aa67584.css.map": "/VOTS/static/css/main.3aa67584.css.map",
-    "main.f5f7131e.js.map": "/VOTS/static/js/main.f5f7131e.js.map"
+    "main.css": "/static/css/main.cedb07d8.css",
+    "main.js": "/static/js/main.59ec161f.js",
+    "static/media/blackhole.svg": "/static/media/blackhole.f5438c0fcb8e251874719168bec0e493.svg",
+    "static/media/starfield.png": "/static/media/starfield.1d591ffc824ac1570fcd.png",
+    "index.html": "/index.html",
+    "main.cedb07d8.css.map": "/static/css/main.cedb07d8.css.map",
+    "main.59ec161f.js.map": "/static/js/main.59ec161f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aa67584.css",
-    "static/js/main.f5f7131e.js"
+    "static/css/main.cedb07d8.css",
+    "static/js/main.59ec161f.js"
   ]
 }
