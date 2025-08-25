@@ -1,0 +1,12 @@
+This is an example text file for testing the TextFileReaderService.
+
+The service can read .txt files and return their contents in JSON format.
+
+Features:
+- File content extraction
+- Metadata collection (file size, line count, word count)
+- Error handling
+- Multiple file reading support
+- Content formatting options
+
+This file contains multiple lines to test the line counting functionality. 
