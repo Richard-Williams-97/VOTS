@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.7a14c306.css",
+    "main.css": "./static/css/main.2a37c163.css",
     "main.js": "./static/js/main.59e69b76.js",
     "static/media/blackhole.svg": "./static/media/blackhole.f5438c0fcb8e251874719168bec0e493.svg",
     "static/media/starfield.png": "./static/media/starfield.1d591ffc824ac1570fcd.png",
     "index.html": "./index.html",
-    "main.7a14c306.css.map": "./static/css/main.7a14c306.css.map",
+    "main.2a37c163.css.map": "./static/css/main.2a37c163.css.map",
     "main.59e69b76.js.map": "./static/js/main.59e69b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a14c306.css",
+    "static/css/main.2a37c163.css",
     "static/js/main.59e69b76.js"
   ]
 }
