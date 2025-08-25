@@ -34,7 +34,7 @@ const Home = () => {
       and small down arrow, maybe a bit hard to make align, but go with best fit and see what it looks like when we use it */}
       <div style={{margin:"0 70px", width: "30px", height: "100%", left: "50%", top: "0", bottom: "0", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center"}}>
         <img style={{width: "100%", height: "100%"}}  src={logo}/>
-        <div style={{width: "2px", height: "100px", backgroundColor: "white", marginTop: "10px", marginBottom: "10px"}} />
+        <div style={{width: "2px", height: "170px", backgroundColor: "white", marginTop: "10px", marginBottom: "10px"}} />
         <img  style={{width: "100%", height: "100%"}} src={logo}/>
       </div>
       
