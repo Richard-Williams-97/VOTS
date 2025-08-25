@@ -2,7 +2,7 @@
   "name": "verseofthesun",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://verseofthesun.com",
+  "homepage": "https://richard-williams-97.github.io/VOTS",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^4.0.0"
   }
 }
