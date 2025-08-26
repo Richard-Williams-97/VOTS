@@ -1,9 +1,9 @@
 {
-  "folderPath": "./",
+  "folderPath": "/",
   "generatedAt": "2025-08-19T00:31:54.612Z",
   "textFiles": [
     {
-      "path": "./example.txt",
+      "path": "/example.txt",
       "title": "This is an example text file for testing the TextFileReaderService.",
       "info": "Medium story with 12 lines (60 words)"
     }
